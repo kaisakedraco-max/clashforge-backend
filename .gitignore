@@ -1,0 +1,18 @@
+# Variables de entorno (NUNCA subir a GitHub)
+.env
+
+# Node modules (se instalan solas)
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de edición
+.vscode/
+.idea/
